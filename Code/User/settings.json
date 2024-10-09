@@ -1,0 +1,13 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "vscode-great-icons",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.titleBarStyle": "custom",
+    "workbench.statusBar.visible": true,
+    "window.commandCenter": false,
+    "workbench.colorTheme": "Bluloco Dark",
+    "github.copilot.advanced": {
+        "authProvider": "github"
+    }
+}
